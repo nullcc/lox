@@ -3,3 +3,7 @@ print true;
 print 2 + 1;
 print (2 + 3) * 4 / (4 + 6);
 var foo = "bar";
+
+var a = 1;
+var b = 2;
+print a + b;
